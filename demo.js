@@ -1,0 +1,5 @@
+console.log("Hi there! This is a demo file.")
+console.log("This file is meant to demonstrate the use of Git for version control.")
+console.log("Git allows you to track changes to your code and collaborate with others.")
+console.log("You can use Git to create branches, merge changes, and resolve conflicts.")
+console.log("This is the end of the demo file. Thank you for reading!")
